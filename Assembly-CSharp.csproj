@@ -57,6 +57,8 @@
      <Compile Include="Assets\Script\GroundCreate.cs" />
      <Compile Include="Assets\Script\PlayerCameraControl.cs" />
      <Compile Include="Assets\Script\PlayerControl.cs" />
+     <Compile Include="Assets\Script\Timer.cs" />
+     <Compile Include="Assets\TimeController.cs" />
      <None Include="Assets\MyMaterial\SignPoles\ForBox.shader" />
      <None Include="Assets\MyMaterial\mandelbrot.shader" />
      <None Include="Assets\MyMaterial\Julia.shader" />
